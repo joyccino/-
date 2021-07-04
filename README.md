@@ -1,4 +1,4 @@
-# 윈도우 스케줄러 (Windows task scheduler) 활용한 크롤링 자동화 서비스.
+# 윈도우 스케줄러 (Windows task scheduler) 활용한 크롤링 자동화
 
 python.exe 경로 확인은 아래와 같이:
 ![파이썬경로](https://user-images.githubusercontent.com/67300266/124382790-2678f100-dd04-11eb-8c34-715eff7a1460.PNG)
