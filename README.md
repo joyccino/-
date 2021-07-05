@@ -10,3 +10,5 @@ python.exe 경로 확인은 아래와 같이:
 ![5](https://user-images.githubusercontent.com/67300266/124382854-6c35b980-dd04-11eb-8359-cc9755d70162.png)
 
 ![crawler](https://user-images.githubusercontent.com/67300266/124382810-37c1fd80-dd04-11eb-9b70-4c10221fd78a.PNG)
+ <br>
+MacOS 에서 Crontab 사용 설명은 [다음](https://stories.tistory.com/227) 참고.
